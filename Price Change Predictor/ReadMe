@@ -1,4 +1,4 @@
-Open the Preictor-A1 file to begin. 
+Open the Predictor-A1 file to begin. 
 
 Change 'data = pd.read_csv("BABA.csv")' by updating BABA.csv to any daily stock data you pull from yahoo finance. 
 
